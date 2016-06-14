@@ -11,5 +11,4 @@
 {"num":"12","itemid":"uid1","name":"Echorouk Tv","urllist":"http://www.teledunet.tv:8888/echorouk_tv.m3u8?idu=_0"},
 {"num":"13","itemid":"uid1","name":"Tamazight Algerie","urllist":"http://www.teledunet.tv:8888/tamazight_algeria.m3u8?idu=_0"},
 {"num":"14","itemid":"uid1","name":"Coran","urllist":"http://www.teledunet.tv:8888/coran.m3u8?idu=_0"},],
-"type":[{"id":"uid0","name":"Maroc"},
-{"id":"uid1","name":"Algerie"}]}
+"type":[{"id":"uid0","name":"Maroc"},{"id":"uid1","name":"Algerie"}]}
