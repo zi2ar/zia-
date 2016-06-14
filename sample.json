@@ -1,1 +1,26 @@
-{"live":[{"num":"1210","itemid":"uid0","name":"tunisie","urllist":"http://www.teledunet.tv:8888/tunisie_tv_1.m3u8?idu=_0"},{"num":"001","itemid":"uidall","name":"MBC","urllist":"http://www.teledunet.tv:8888/mbc_1.m3u8?idu=_0"},{"num":"44","itemid":"uid1","name":"2M","urllist":"http://www.teledunet.tv:8888/2m.m3u8?idu=_0"}],"type":[{"id":"uidall","name":"KH"},{"id":"uid0","name":"TN"},{"id":"uid1","name":"MA"}]}
+{
+"live":[
+{"num":"1","itemid":"uid0","name":"2M","urllist":"http://www.teledunet.tv:8888/2m.m3u8?idu=_0"},
+{"num":"2","itemid":"uid0","name":"Al Maghribia","urllist":"http://www.teledunet.tv:8888/al_maghribia.m3u8?idu=_0"},
+{"num":"3","itemid":"uid0","name":"Al Aoula ","urllist":"http://www.teledunet.tv:8888/al_aoula_maroc.m3u8?idu=_0"},
+{"num":"4","itemid":"uid0","name":"Arrabia","urllist":"http://www.teledunet.tv:8888/arrabia.m3u8?idu=_0"},
+{"num":"5","itemid":"uid0","name":"Medi 1 Sat","urllist":"http://www.teledunet.tv:8888/medi_1_sat.m3u8?idu=_0"},
+{"num":"6","itemid":"uid0","name":"Assadissa","urllist":"http://www.teledunet.tv:8888/assadissa.m3u8?idu=_0"},
+{"num":"7","itemid":"uid0","name":"Alriadia Sport","urllist":"http://www.teledunet.tv:8888/alriadia_sport.m3u8?idu=_0"},
+{"num":"8","itemid":"uid0","name":"Tamazight","urllist":"http://www.teledunet.tv:8888/tamazight.m3u8?idu=_0"},
+
+
+
+
+{"num":"10","itemid":"uid1","name":"Canal Algerie","urllist":"http://www.teledunet.tv:8888/algeria.m3u8?idu=_0"},
+{"num":"11","itemid":"uid1","name":"A3","urllist":"http://www.teledunet.tv:8888/algeria_3.m3u8?idu=_0"},
+{"num":"12","itemid":"uid1","name":"Echorouk Tv","urllist":"http://www.teledunet.tv:8888/echorouk_tv.m3u8?idu=_0"},
+{"num":"13","itemid":"uid1","name":"Tamazight Algerie","urllist":"http://www.teledunet.tv:8888/tamazight_algeria.m3u8?idu=_0"},
+{"num":"14","itemid":"uid1","name":"Coran","urllist":"http://www.teledunet.tv:8888/coran.m3u8?idu=_0"},
+
+],
+"type":[
+{"id":"uid0","name":"Maroc"},
+{"id":"uid1","name":"Algerie"}
+]
+}
